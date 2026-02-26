@@ -56,3 +56,13 @@ Analysis Conducted:
 Findings:  
 
 As stated before the country that generates the most revenue for this company is predominantly the United Kingdom who takes up 84.61% of total revenue. Trailing this would be international markets that are bordering or very close to the United Kingdom such as the Netherlands, Germany, France, and Eire to name a few. Once again this shows that this companies performance is heavily reliant on the domestic market. The top 3 products that generated the most revenue are as follows: Dotcom Postage, Regency Cakestand 3 Tier, Papercraft Little Birdie. These products generate around $160k-$200k in revenue. Delving deeper shows us that the top 10% of all products sold within this company make up 62.79% of total company revenue. This shows that a minority of products significantly influence a huge portion of total performance. Additionally the average order value seems to be relatively stable as mentioned before sitting at around $400-$500 which would suggest that revenue spikes are caused more by a higher increase in order volume as opposed to higher prices.
+
+**Q4: Opportunities For Growth**  
+Analysis Conducted:
+- Which countries have many orders but low average order value?
+- Are there mid-tier customers who could be moved to top tier?
+- Are there months with lower performance that could be optimized?
+
+Findings:  
+
+  
