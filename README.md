@@ -59,10 +59,11 @@ As stated before the country that generates the most revenue for this company is
 
 **Q4: Opportunities For Growth**  
 Analysis Conducted:
-- Which countries have many orders but low average order value?
-- Are there mid-tier customers who could be moved to top tier?
-- Are there months with lower performance that could be optimized?
+- Repeat purchase rates
+- Revenue by country
+- Low performing products
+- Customer value distribution
 
 Findings:  
 
-  
+When considering the overall information collected we find that this company has a relatively strong customer retention rate. This rate sits at 65.58% of repeat customers (2,845 of 4,338 total), however 1,493 one-time buyers that show a clear opportunity for an increase in revenue. As stated before we know that the United Kingdom is where a majority of the revenue comes from sitting at around $9 million dollars across 3,920 customers. This means that international markets such as Germany, France, and the Netherlands contribute significantly less revenue. This shows a huge potential in geographical expansion. When looking at this companies customer value distribution, which shows how many low, mid, and high end customers there are, we can pinpoint exactly what type of customers they need to cater towards to increase revenue. We will specifically look at low end customers meaning these customers have a total revenue of less than $500. This number turns out to be 1761 customers which is about 68% of total customers. This is a huge pool of customers to work with in order to increase revenue which could be done by focusing on increasing their purchase frequency or average order value.
