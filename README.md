@@ -37,10 +37,9 @@ The months that had the most earnings were September, October, November which sh
 
 **Q2: Best Customers**  
 Analysis Conducted:  
-- Who generates the most total revenue?
-- Who places the most orders?
-- Who has the highest average order value?
-- What percentage of revenue comes from the top 10–20% of customers?
+- Top customers
+- Top revenue by country
+- Percentage of total revenue by country
 
 Findings:  
 
@@ -48,10 +47,10 @@ When looking at who generates the most revenue we can see a heavy concentration 
 
 **Q3: What Drives Sales**  
 Analysis Conducted:
-- Which products generated the most revenue?
-- Which countries generated the most revenue?
-- Are high quantities or high prices driving revenue?
-- Does average order value vary by country?
+- Products that generate the most revenue
+- Most sold products
+- Percentage of revenue produced by top products
+- Average order value by country?
 
 Findings:  
 
@@ -59,10 +58,11 @@ As stated before the country that generates the most revenue for this company is
 
 **Q4: Opportunities For Growth**  
 Analysis Conducted:
-- Repeat purchase rates
-- Revenue by country
+- Type of customers(one time, repeating, etc)
+- Total revenue/customers by country
 - Low performing products
 - Customer value distribution
+- Potential risks
 
 Findings:  
 
