@@ -6,11 +6,21 @@ The dataset used for this project was provided by Kaggle. It contains a transnat
 
 # Interactive Dashboards
 https://public.tableau.com/shared/J96839BNT?:display_count=n&:origin=viz_share_link
+This dashboard allows users to explore:
+- Revenue trends over time
+- Geographic sales distribution
+- Product performance
+- Customer purchasing behavior
 
 # Tools Used
 - Excel - Initial data validation
 - MySql - Data loading, cleaning, transforming data, analysis
 - Tableau - Visualization of data  
+
+## Key Learnings
+- Improved ability to transform raw transactional data into meaningful business metrics
+- Gained experience handling data skew and outliers in visualizations
+- Developed skills in building interactive dashboards for end-user exploration
 
 # Data Preparation
 **Data Loading**
@@ -69,4 +79,19 @@ Analysis Conducted:
 
 Findings:  
 
-When considering the overall information collected we find that this company has a relatively strong customer retention rate. This rate sits at 65.58% of repeat customers (2,845 of 4,338 total), however 1,493 one-time buyers that show a clear opportunity for an increase in revenue. As stated before we know that the United Kingdom is where a majority of the revenue comes from sitting at around $9 million dollars across 3,920 customers. This means that international markets such as Germany, France, and the Netherlands contribute significantly less revenue. This shows a huge potential in geographical expansion. When looking at this companies customer value distribution, which shows how many low, mid, and high end customers there are, we can pinpoint exactly what type of customers they need to cater towards to increase revenue. We will specifically look at low end customers meaning these customers have a total revenue of less than $500. This number turns out to be 1761 customers which is about 68% of total customers. This is a huge pool of customers to work with in order to increase revenue which could be done by focusing on increasing their purchase frequency or average order value.
+When considering the overall information collected we find that this company has a relatively strong customer retention rate. This rate sits at 65.58% of repeat customers (2,845 of 4,338 total), however 1,493 one-time buyers that show a clear opportunity for an increase in revenue. As stated before we know that the United Kingdom is where a majority of the revenue comes from sitting at around $9 million dollars across 3,920 customers. This means that international markets such as Germany, France, and the Netherlands contribute significantly less revenue. This shows a huge potential in geographical expansion. When looking at this companies customer value distribution, which shows how many low, mid, and high end customers there are, we can pinpoint exactly what type of customers they need to cater towards to increase revenue. We will specifically look at low end customers meaning these customers have a total revenue of less than $500. This number turns out to be 1761 customers which is about 68% of total customers. This is a huge pool of customers to work with in order to increase revenue which could be done by focusing on increasing their purchase frequency or average order value.  
+  
+**Business Implications**
+
+- Heavy reliance on the UK suggests potential risk if demand declines in that region
+- A small number of products drive most revenue, indicating opportunities for inventory prioritization
+- Repeat customers highlight the effectiveness of retention but also suggest room for loyalty optimization
+  
+
+**Final Conclusion**
+
+This analysis reveals that revenue is heavily concentrated in a small number of countries and products, with the UK dominating overall sales. A limited set of high-performing products contributes a disproportionate share of total revenue, indicating strong product concentration.  
+
+Additionally, customer behavior shows a meaningful portion of repeat purchases, suggesting opportunities for retention strategies and targeted marketing.  
+
+Overall, the business relies on key markets and products, presenting both opportunities for growth and risks related to over-dependence.
