@@ -5,7 +5,8 @@ This is a SQL based analysis on an e-commerce sale data set.
 The dataset used for this project was provided by Kaggle. It contains a transnational data set of transactions between 01/12/2010 and 09/12/2011 for a UK based online retailer. The data was cleaned in MySql and visualized with Tableau. The objective of this project was to identify key drivers of revenue, high value customers, retention risks, and opportunities for business growth.
 
 # Interactive Dashboards
-https://public.tableau.com/shared/J96839BNT?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/J96839BNT?:display_count=n&:origin=viz_share_link  
+
 This dashboard allows users to explore:
 - Revenue trends over time
 - Geographic sales distribution
